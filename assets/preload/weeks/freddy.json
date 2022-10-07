@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"let us in",
+			"freddy",
+			[
+				100,
+				53,
+				0
+			]
+		],
+		[
+			"slaughter",
+			"freddyangry",
+			[
+				100,
+				53,
+				0
+			]
+		],
+		[
+			"fired",
+			"goldenfreddy",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "freddy fazbear's pizza",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
